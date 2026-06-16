@@ -42,9 +42,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Start the Flask server:
+4. Start the server:
 ```
-flask run
+npm run api
 ```
 Flask will run on `http://localhost:5000`
 
